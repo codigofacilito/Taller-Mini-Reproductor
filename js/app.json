@@ -1,0 +1,32 @@
+{
+	"songs":[
+		{
+			"id":0,
+			"name":"Chances",
+			"artist":"The Strokes",
+			"song":"music/Chances.mp3",
+			"image":"img/cdm.jpg"
+		},
+		{
+			"id":1,
+			"name":"One Way Trigger",
+			"artist":"The Strokes",
+			"song":"music/Onewaytrigger.mp3",
+			"image":"img/cdm.jpg"
+		},
+		{
+			"id":2,
+			"name":"Are You Gonna Be My Girl",
+			"artist":"Jet",
+			"song":"music/Jet.mp3",
+			"image":"img/jet.jpg"
+		},
+		{
+			"id":3,
+			"name":"Wishful Thinking",
+			"artist":"Jhon Petrucci",
+			"song":"music/Wishfulthinking.mp3",
+			"image":"img/petrucci.jpg"
+		}
+	]
+}
